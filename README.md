@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a data professional who turns messy datasets into decisions that move the needle. At **Incred Finance**, I grew from Analytics Trainee to Manager in under 2 years — building recovery propensity models, running A/B tests that doubled digital adoption, and automating reporting pipelines that saved 40% of analyst time.
+I'm a data professional who turns messy datasets into decisions that move the needle. At **Incred Finance**, I grew from Analytics Trainee to Manager in under 2 years — analyzing propensity models, evaluating A/B tests that doubled digital adoption, and automating reporting pipelines that saved 40% of analyst time.
 
 Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0), I'm looking for **Summer & Fall 2026 co-ops** in Data Analytics, Data Science, AI/ML Engineering, or Product Management.
 
