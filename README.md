@@ -1,14 +1,14 @@
 <!-- 
   GitHub Profile README — Shubham Ghode (@SVG3256)
   SEO Keywords: Data Analyst, Data Scientist, Python, SQL, Machine Learning, 
-  Northeastern University, MS Computer Science, Summer 2026 Co-Op
+  Credit Risk, Northeastern University, MS Computer Science, Summer 2026 Co-Op
 -->
 
 <h1 align="center">Hey there, I'm Shubham 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst → Data Scientist → Product Thinker</strong><br>
-  MS Computer Science @ Northeastern University · 2+ yrs Analytics at Incred Finance
+  <strong>Data Analyst · Data Scientist · Product Thinker</strong><br>
+  MS Computer Science @ Northeastern University · 2+ yrs in Analytics at Incred Finance
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm a data professional who turns messy datasets into decisions that move the needle. At **Incred Finance**, I grew from Analytics Trainee to Manager in under 2 years — analyzing propensity models, evaluating A/B tests that doubled digital adoption, and automating reporting pipelines that saved 40% of analyst time.
+Two years in analytics at Incred Finance — credit risk, experimentation, and automation. I grew from Analytics Trainee to Manager, evaluating A/B experiments, contributing to recovery propensity scoring that improved collections by 15%, and automating reporting workflows that cut analyst time by 40%.
 
-Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0), I'm looking for **Summer & Fall 2026 co-ops** in Data Analytics, Data Science, AI/ML Engineering, or Product Management.
+Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0), building the CS depth behind that work.
 
 - 🔭 Currently working on: **Customer Churn Prediction** using NLP + Hidden Markov Models
 - 🌱 Currently learning: **Foundations of AI, Algorithms**
-- 🏆 Won **1st Prize** at the L&T Ideation Challenge 2023 (National Level Hackathon)
+- 🏆 Won **1st Prize** at the L&T Ideation Challenge 2023 (National Hackathon · 215 teams)
 - 📍 Based in **Boston, MA**
 
 ---
@@ -52,6 +52,7 @@ Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0)
 **Tools & Platforms**
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -63,8 +64,8 @@ Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0)
 **Currently Exploring**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -72,9 +73,10 @@ Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0)
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Customer Churn Prediction](https://github.com/SVG3256/customer-churn-prediction-hybrid)** | Multi-model approach using NLP + HMM to predict churn risk from complaint data | `NLP` `HMM` `VADER` `finBERT` |
+| **[Customer Churn Prediction](https://github.com/SVG3256/customer-churn-prediction-hybrid)** | Multi-model NLP + HMM approach to predict churn risk from complaint data | `NLP` `HMM` `VADER` `finBERT` |
+| **[HR Analytics Dashboard](https://github.com/SVG3256/tableau-hr-dashboard)** | Interactive Tableau dashboard analyzing attrition patterns and demographic insights | `Tableau` `Data Viz` `HR Analytics` |
 | **[Rent-A-Wheel DBMS](https://github.com/SVG3256/rent-a-wheel-dbms-application)** | Full-stack car rental management system with ML-powered pricing | `Python` `MySQL` `ML` |
-| **NexOT — SOC for OT Cyber Resilience** | Web framework for asset identification & vulnerability assessment in OT networks · *1st Prize, L&T Ideation Challenge* | `Python` `MongoDB` `ELK Stack` |
+| **NexOT — SOC for OT Cyber Resilience** | Web framework for OT vulnerability assessment · *1st Prize, L&T Ideation Challenge (215 teams)* | `Python` `MongoDB` `ELK Stack` |
 
 ---
 
@@ -90,7 +92,7 @@ Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0)
 ### 💼 Work Experience
 
 **Manager — Analytics** · Incred Finance · *Apr 2025 – Jul 2025*
-> Built recovery propensity models (+15% recoveries), ran A/B tests (28% → 52% digital adoption), drove +33% NPA settlement reach
+> Contributed to recovery propensity scoring (+15% recoveries), evaluated A/B experiments (28% → 52% digital adoption), drove +33% NPA settlement reach
 
 **Assistant Manager — Analytics Trainee** · Incred Finance · *Jul 2023 – Mar 2025*
 > Automated Python ETL pipelines (-40% reporting time), validated ML models for credit risk, analyzed large datasets on Databricks
@@ -102,11 +104,10 @@ Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0)
 
 ### 🤝 Let's Connect
 
-I'm actively looking for **Summer & Fall 2026 Co-Op** opportunities in:
+I'm open to **Summer & Fall 2026 Co-Op** opportunities in:
 
 - 📊 Data Analytics / Data Science
 - 🤖 AI/ML Engineering
-- 📦 Data Engineering
 - 🎯 AI Product Management
 
 <p align="center">
@@ -117,4 +118,4 @@ I'm actively looking for **Summer & Fall 2026 Co-Op** opportunities in:
 
 ---
 
-<p align="center"><sub>✨ Built with data, driven by curiosity</sub></p>
+<p align="center"><sub>© Shubham Ghode</sub></p>
