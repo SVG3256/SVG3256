@@ -26,7 +26,7 @@ I'm a data professional who turns messy datasets into decisions that move the ne
 Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0), I'm looking for **Summer & Fall 2026 co-ops** in Data Analytics, Data Science, AI/ML Engineering, or Product Management.
 
 - 🔭 Currently working on: **Customer Churn Prediction** using NLP + Hidden Markov Models
-- 🌱 Currently learning: **Advanced ML, Foundations of AI, Algorithms**
+- 🌱 Currently learning: **Foundations of AI, Algorithms**
 - 🏆 Won **1st Prize** at the L&T Ideation Challenge 2023 (National Level Hackathon)
 - 📍 Based in **Boston, MA**
 
@@ -92,7 +92,7 @@ Now pursuing my **MS in Computer Science at Northeastern University** (GPA: 4.0)
 **Manager — Analytics** · Incred Finance · *Apr 2025 – Jul 2025*
 > Built recovery propensity models (+15% recoveries), ran A/B tests (28% → 52% digital adoption), drove +33% NPA settlement reach
 
-**Assistant Manager — Analytics** · Incred Finance · *Jul 2023 – Mar 2025*
+**Assistant Manager — Analytics Trainee** · Incred Finance · *Jul 2023 – Mar 2025*
 > Automated Python ETL pipelines (-40% reporting time), validated ML models for credit risk, analyzed large datasets on Databricks
 
 **Business Analyst Intern** · Kotak Life · *May 2022 – Jul 2022*
