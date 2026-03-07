@@ -4,7 +4,7 @@
   Credit Risk, Northeastern University, MS Computer Science, Summer 2026 Co-Op
 -->
 
-<h1 align="center">Hey there, I'm Shubham 👋</h1>
+<h1 align="center">Hey there, I'm Shubham Ghode 👋</h1>
 
 <p align="center">
   <strong>Data Analyst · Data Scientist · Product Thinker</strong><br>
